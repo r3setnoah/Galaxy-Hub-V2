@@ -1,0 +1,44 @@
+[
+  {
+    "id": "slope",
+    "title": "Slope",
+    "thumbnail": "https://picsum.photos/seed/slope/400/300",
+    "url": "https://krunker.io/",
+    "category": "Action"
+  },
+  {
+    "id": "minecraft",
+    "title": "Minecraft Classic",
+    "thumbnail": "https://picsum.photos/seed/minecraft/400/300",
+    "url": "https://classic.minecraft.net/",
+    "category": "Sandbox"
+  },
+  {
+    "id": "tetris",
+    "title": "Tetris",
+    "thumbnail": "https://picsum.photos/seed/tetris/400/300",
+    "url": "https://tetris.com/play-tetris",
+    "category": "Puzzle"
+  },
+  {
+    "id": "2048",
+    "title": "2048",
+    "thumbnail": "https://picsum.photos/seed/2048/400/300",
+    "url": "https://play2048.co/",
+    "category": "Puzzle"
+  },
+  {
+    "id": "paper-io",
+    "title": "Paper.io 2",
+    "thumbnail": "https://picsum.photos/seed/paper/400/300",
+    "url": "https://paper-io.com/",
+    "category": "IO"
+  },
+  {
+    "id": "hole-io",
+    "title": "Hole.io",
+    "thumbnail": "https://picsum.photos/seed/hole/400/300",
+    "url": "https://hole-io.com/",
+    "category": "IO"
+  }
+]
